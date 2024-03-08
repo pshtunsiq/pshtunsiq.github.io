@@ -196,7 +196,7 @@
   }
   
   .hero .content {
-    padding: 1.7rem 7%;
+    /* padding: 1.7rem 7%; */
     max-width: 100rem;
     text-align: center;
   }
@@ -220,8 +220,6 @@
   }
   
   .hero .content h1 span {
-    /* display: block; */
-    /* text-align: center; */
     color: var(--primary);
   }
   
